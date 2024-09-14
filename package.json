@@ -39,7 +39,7 @@
   },
   "lint-staged": {
     "**/*": "prettier --write --ignore-unknown"
-  }, 
+  },
   "engines": {
     "node": ">=20.0.0"
   }
