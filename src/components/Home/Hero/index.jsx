@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react';
 
 const index = () => {
   return (
@@ -11,12 +11,10 @@ const index = () => {
           Transform your recruitment strategy and find the best <br /> talent effortlessly with our user-friendly
           platform.
         </p>
-        <button className="rounded-md bg-[#009688] p-2 font-semibold text-white">
-          Get Started for free</button>
+        <button className="rounded-md bg-[#009688] p-2 font-semibold text-white">Get Started for free</button>
       </div>
 
-      <img src="/first.png" alt="hero image" 
-      className="mb-8 w-full md:mb-0 md:w-[400px] lg:w-[500px]" />
+      <img src="/first.png" alt="hero image" className="mb-8 w-full md:mb-0 md:w-[400px] lg:w-[500px]" />
     </div>
   );
 };

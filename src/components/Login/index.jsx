@@ -1,8 +1,8 @@
-import React from 'react'
+// import React from 'react';
 
 const Login = () => {
   return (
-    <div className="flex h-screen items-center justify-center ">
+    <div className="flex h-screen items-center justify-center">
       <div className="w-full max-w-sm rounded-lg bg-white p-8 shadow-lg">
         <h2 className="mb-3 text-center text-2xl font-bold">Logo</h2>
 
@@ -27,8 +27,7 @@ const Login = () => {
         </div>
       </div>
     </div>
-    
   );
-}
+};
 
-export default Login
+export default Login;
